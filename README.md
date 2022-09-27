@@ -1,0 +1,2 @@
+# GoogleBeta
+GoogleBeta tasarımının yapılması
